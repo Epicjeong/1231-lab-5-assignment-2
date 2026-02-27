@@ -16,10 +16,10 @@ MonoBehaviour:
   lastSaveFormat: 0
   lastEncrypted: 0
   editorHelpLanguageTexts: {fileID: 0}
-  section: 5
-  subSection: 8
-  tabIndex: 29
-  scrollY: 420
+  section: 9
+  subSection: 0
+  tabIndex: -1
+  scrollY: 0
   foldoutLimit: 
   helpDrag: 220
   subSectionDrag: 250
@@ -36,6 +36,7 @@ MonoBehaviour:
   updateScenes: 0
   sceneUpdate: 
   schematicAsset:
+  - {fileID: 11400000, guid: d67a98c5a59646b48bbd1ad2dcaa48be, type: 2}
   - {fileID: 11400000, guid: 917f12b53f7a2384693c4a3b952dec2e, type: 2}
   - {fileID: 11400000, guid: 5c895601595d66743b25f4599f70cd0f, type: 2}
   - {fileID: 11400000, guid: 01dfde73cd9b6a74881029667f90ed22, type: 2}
@@ -43,7 +44,6 @@ MonoBehaviour:
   - {fileID: 11400000, guid: d4a3f9c98f6224e4bb0ff8f452a0f2de, type: 2}
   - {fileID: 11400000, guid: ed0dad98d18f7ea4e85079df3b4d827f, type: 2}
   - {fileID: 11400000, guid: e8d7001a7c90c174dbc59d4b6e52c9f2, type: 2}
-  - {fileID: 11400000, guid: d67a98c5a59646b48bbd1ad2dcaa48be, type: 2}
   - {fileID: 11400000, guid: fdca204b575e44b44bc72f864be6a346, type: 2}
   - {fileID: 11400000, guid: 7d017da5f23788344abef0fb2e4650d6, type: 2}
   - {fileID: 11400000, guid: cdaf444651bd526449fb9551fcae14b9, type: 2}
