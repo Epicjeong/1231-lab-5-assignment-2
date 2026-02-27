@@ -26033,8 +26033,8 @@ MonoBehaviour:
 
       </combatant>
 
-      <level type="0"
-      minOffset="-5" maxOffset="5" minRandom="1" maxRandom="99" >
+      <level type="1"
+      minOffset="-1" maxOffset="1" minRandom="1" maxRandom="99" >
 
       <_float
       formulaInitialValue="0" />
@@ -26102,7 +26102,7 @@ MonoBehaviour:
     lookUp:
       assets:
       - {fileID: 11400000, guid: 2384e56236ae84340967b802cbad6bd8, type: 2}
-      - {fileID: 11400000, guid: 06c63b9ae7b10404f995ef6e62ba3469, type: 2}
+      - {fileID: 11400000, guid: c22a16d28798c3a48811b0d3b9097410, type: 2}
     encrypted: 0
     stringData: 
 --- !u!4 &1410195715
