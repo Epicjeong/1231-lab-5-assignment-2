@@ -129,7 +129,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1654201546880210935, guid: 1006db6c94b17364ca26f847f26024b5, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -314.90234
+      value: -237.19724
       objectReference: {fileID: 0}
     - target: {fileID: 1654201546880210935, guid: 1006db6c94b17364ca26f847f26024b5, type: 3}
       propertyPath: m_LocalPosition.y
@@ -137,11 +137,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1654201546880210935, guid: 1006db6c94b17364ca26f847f26024b5, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 32.254852
+      value: 17.002808
       objectReference: {fileID: 0}
     - target: {fileID: 1654201546880210935, guid: 1006db6c94b17364ca26f847f26024b5, type: 3}
       propertyPath: m_LocalRotation.w
-      value: -0.035325713
+      value: 0.9749728
       objectReference: {fileID: 0}
     - target: {fileID: 1654201546880210935, guid: 1006db6c94b17364ca26f847f26024b5, type: 3}
       propertyPath: m_LocalRotation.x
@@ -149,7 +149,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1654201546880210935, guid: 1006db6c94b17364ca26f847f26024b5, type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0.9993759
+      value: -0.2223244
       objectReference: {fileID: 0}
     - target: {fileID: 1654201546880210935, guid: 1006db6c94b17364ca26f847f26024b5, type: 3}
       propertyPath: m_LocalRotation.z
@@ -161,7 +161,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1654201546880210935, guid: 1006db6c94b17364ca26f847f26024b5, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: -184.049
+      value: -25.691
       objectReference: {fileID: 0}
     - target: {fileID: 1654201546880210935, guid: 1006db6c94b17364ca26f847f26024b5, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
@@ -180,7 +180,7 @@ PrefabInstance:
       addedObject: {fileID: 1034428338}
     - targetCorrespondingSourceObject: {fileID: 2143492586113994061, guid: 1006db6c94b17364ca26f847f26024b5, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 1034428343}
+      addedObject: {fileID: 1034428348}
   m_SourcePrefab: {fileID: 100100000, guid: 1006db6c94b17364ca26f847f26024b5, type: 3}
 --- !u!1001 &13543044
 PrefabInstance:
@@ -3164,7 +3164,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1509280839696641296, guid: 963bbbc26b86f2e41a58c53fdba29552, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 187.51
+      value: 190
       objectReference: {fileID: 0}
     - target: {fileID: 1509280839696641296, guid: 963bbbc26b86f2e41a58c53fdba29552, type: 3}
       propertyPath: m_LocalPosition.y
@@ -3172,11 +3172,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1509280839696641296, guid: 963bbbc26b86f2e41a58c53fdba29552, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 435.07
+      value: 439.8
       objectReference: {fileID: 0}
     - target: {fileID: 1509280839696641296, guid: 963bbbc26b86f2e41a58c53fdba29552, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.3226774
+      value: 0.27675933
       objectReference: {fileID: 0}
     - target: {fileID: 1509280839696641296, guid: 963bbbc26b86f2e41a58c53fdba29552, type: 3}
       propertyPath: m_LocalRotation.x
@@ -3184,7 +3184,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1509280839696641296, guid: 963bbbc26b86f2e41a58c53fdba29552, type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0.946509
+      value: -0.9609393
       objectReference: {fileID: 0}
     - target: {fileID: 1509280839696641296, guid: 963bbbc26b86f2e41a58c53fdba29552, type: 3}
       propertyPath: m_LocalRotation.z
@@ -3196,7 +3196,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1509280839696641296, guid: 963bbbc26b86f2e41a58c53fdba29552, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: -142.35
+      value: -147.866
       objectReference: {fileID: 0}
     - target: {fileID: 1509280839696641296, guid: 963bbbc26b86f2e41a58c53fdba29552, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
@@ -11135,7 +11135,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1509280839696641296, guid: 963bbbc26b86f2e41a58c53fdba29552, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 41.466454
+      value: 73.3
       objectReference: {fileID: 0}
     - target: {fileID: 1509280839696641296, guid: 963bbbc26b86f2e41a58c53fdba29552, type: 3}
       propertyPath: m_LocalPosition.y
@@ -11143,7 +11143,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1509280839696641296, guid: 963bbbc26b86f2e41a58c53fdba29552, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 437.0951
+      value: 447.9
       objectReference: {fileID: 0}
     - target: {fileID: 1509280839696641296, guid: 963bbbc26b86f2e41a58c53fdba29552, type: 3}
       propertyPath: m_LocalRotation.w
@@ -13255,6 +13255,289 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1822407515}
   m_LocalEulerAnglesHint: {x: 0, y: -121.517, z: 0}
+--- !u!1 &832568368
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 832568369}
+  - component: {fileID: 832568371}
+  - component: {fileID: 832568370}
+  m_Layer: 0
+  m_Name: InvaderSummonArea
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &832568369
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 832568368}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -368.2, y: -191.184, z: 32}
+  m_LocalScale: {x: 50, y: 50, z: 50}
+  m_ConstrainProportionsScale: 1
+  m_Children: []
+  m_Father: {fileID: 1892022294}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &832568370
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 832568368}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1217795412, guid: bfb06eec059d3a345ac43927a4389437, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  serialize_conditionSetting:
+    name: conditionSetting
+    byteData: 
+    xmlData: '<xmldata autoCheckType="0" conditionFail="0" needed="0" >
+
+      <_float
+      destroyCheckDelay="1" />
+
+      <_bool repeatCheck="False" />
+
+      <_subarrays>
+
+      <condition>
+
+      </condition>
+
+      </_subarrays>
+
+      </xmldata>
+
+'
+    lookUp:
+      assets: []
+    encrypted: 0
+    stringData: 
+  serialize_baseSettings:
+    name: settings
+    byteData: 
+    xmlData: '<xmldata>
+
+      <assetSetting executionType="0" updateType="0" priority="0"
+      endAction="0" >
+
+      <_float startDelayTime="0" endDelayTime="0" autoStopCheckTime="0"
+      />
+
+      <_bool inPause="False" setPriority="False" stopOnDestroy="True" turnStartingObject="False"
+      turnMachineObject="False" turnRestoreMachineObject="False" autoStop="False"
+      />
+
+      <machineType>
+
+      <_string>
+
+      <type><![CDATA[GamingIsLove.Makinom.ReferenceAssetSource`1]]></type>
+
+      </_string>
+
+      <settings>
+
+      <_string>
+
+      <_type><![CDATA[GamingIsLove.Makinom.ReferenceAssetSource`1]]></_type>
+
+      </_string>
+
+      </settings>
+
+      </machineType>
+
+      <inputID>
+
+      <_bool
+      overrideID="False" />
+
+      </inputID>
+
+      </assetSetting>
+
+      <changeAfterSetting>
+
+      <_bool
+      setVariables="False" />
+
+      </changeAfterSetting>
+
+      <startVariableSetting>
+
+      <_bool
+      setStartVariables="False" />
+
+      </startVariableSetting>
+
+      </xmldata>
+
+'
+    lookUp:
+      assets: []
+    encrypted: 0
+    stringData: 
+  actor: []
+  resources:
+    prefab: []
+    audioClip: []
+    audioMixer: []
+    audioMixerGroup: []
+    sprite: []
+    texture: []
+    material: []
+    physicMaterial: []
+    physicsMaterial2D: []
+  serialize_setting:
+    name: settings
+    byteData: 
+    xmlData: '<xmldata>
+
+      <_bool useAutoStopDistance="False" />
+
+      <startSetting
+      needed="0" >
+
+      <_float maxInteractionDistance="3" maxMouseDistance="3"
+      />
+
+      <_bool isInteract="False" isKeyPress="False" isDrop="False" isMouseDown="False"
+      isMouseDrag="False" isMouseUp="False" isMouseUpAsButton="False" isMouseEnter="False"
+      isMouseOver="False" isMouseExit="False" setInteractionDistance="False" setMouseDistance="False"
+      keyPressInTrigger="False" keyPressWhileColliding="False" startByRoot="False"
+      />
+
+      <_string>
+
+      <_type><![CDATA[GamingIsLove.Makinom.Schematics.InteractionMachineStartSetting]]></_type>
+
+      </_string>
+
+      <inputKey>
+
+      <_string>
+
+      <type><![CDATA[GamingIsLove.Makinom.ReferenceAssetSource`1]]></type>
+
+      </_string>
+
+      <settings>
+
+      <_string>
+
+      <_type><![CDATA[GamingIsLove.Makinom.ReferenceAssetSource`1]]></_type>
+
+      </_string>
+
+      </settings>
+
+      </inputKey>
+
+      <_subarrays>
+
+      <dropCondition>
+
+      </dropCondition>
+
+      </_subarrays>
+
+      </startSetting>
+
+      <moveToInteraction>
+
+      <_float
+      interactionRadius="1" stopDistance="1" />
+
+      <_bool useMoveToInteraction="True"
+      overrideInteractionRadius="False" setInteractionRadius="False" overrideStopDistance="False"
+      overrideMoveToSpeed="False" />
+
+      <moveToSpeed>
+
+      <_string>
+
+      <type><![CDATA[GamingIsLove.Makinom.FloatValue_ValueType`1]]></type>
+
+      </_string>
+
+      <settings>
+
+      <_float
+      value="5" />
+
+      <_string>
+
+      <_type><![CDATA[GamingIsLove.Makinom.FloatValue_ValueType`1]]></_type>
+
+      </_string>
+
+      </settings>
+
+      <mathFunction>
+
+      <_string>
+
+      <type><![CDATA[GamingIsLove.Makinom.Math.NoneMathFunction]]></type>
+
+      </_string>
+
+      <settings>
+
+      <_string>
+
+      <_type><![CDATA[GamingIsLove.Makinom.Math.NoneMathFunction]]></_type>
+
+      </_string>
+
+      </settings>
+
+      </mathFunction>
+
+      </moveToSpeed>
+
+      </moveToInteraction>
+
+      </xmldata>
+
+'
+    lookUp:
+      assets: []
+    encrypted: 0
+    stringData: 
+--- !u!65 &832568371
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 832568368}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1001 &840127640
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -17587,7 +17870,7 @@ MonoBehaviour:
       assets: []
     encrypted: 0
     stringData: 
---- !u!114 &1034428343
+--- !u!114 &1034428348
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -17596,21 +17879,42 @@ MonoBehaviour:
   m_GameObject: {fileID: 1034428336}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 746509763, guid: 2f433824042009943be1767c00adb2ed, type: 3}
+  m_Script: {fileID: -1651919406, guid: bfb06eec059d3a345ac43927a4389437, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  serialize_conditionSetting:
+    name: conditionSetting
+    byteData: 
+    xmlData: '<xmldata autoCheckType="0" conditionFail="0" needed="0" >
+
+      <_float
+      destroyCheckDelay="1" />
+
+      <_bool repeatCheck="False" />
+
+      <_subarrays>
+
+      <condition>
+
+      </condition>
+
+      </_subarrays>
+
+      </xmldata>
+
+'
+    lookUp:
+      assets: []
+    encrypted: 0
+    stringData: 
   serialize_setting:
     name: settings
     byteData: 
     xmlData: '<xmldata>
 
-      <_subarrays>
+      <_bool custom="False" />
 
-      <hud>
-
-      <0>
-
-      <hud>
+      <sceneObject>
 
       <_string>
 
@@ -17631,83 +17935,13 @@ MonoBehaviour:
 
       </settings>
 
-      </hud>
-
-      <condition needed="0"
-      >
+      </sceneObject>
 
       <_subarrays>
 
-      <condition>
+      <customTextCode>
 
-      <0>
-
-      <_string>
-
-      <type><![CDATA[GamingIsLove.ORKFramework.QuestTaskGeneralCondition`1]]></type>
-
-      </_string>
-
-      <settings
-      needed="0" >
-
-      <_string>
-
-      <_type><![CDATA[GamingIsLove.ORKFramework.QuestTaskGeneralCondition`1]]></_type>
-
-      </_string>
-
-      <_subarrays>
-
-      <taskStatus>
-
-      <0
-      type="1" >
-
-      <_bool isValid="True" questActive="True" />
-
-      <task>
-
-      <_string>
-
-      <type><![CDATA[GamingIsLove.Makinom.ReferenceAssetSource`1]]></type>
-
-      </_string>
-
-      <settings>
-
-      <_string>
-
-      <_type><![CDATA[GamingIsLove.Makinom.ReferenceAssetSource`1]]></_type>
-
-      </_string>
-
-      <_asset
-      asset="1" />
-
-      </settings>
-
-      </task>
-
-      </0>
-
-      </taskStatus>
-
-      </_subarrays>
-
-      </settings>
-
-      </0>
-
-      </condition>
-
-      </_subarrays>
-
-      </condition>
-
-      </0>
-
-      </hud>
+      </customTextCode>
 
       </_subarrays>
 
@@ -17716,8 +17950,7 @@ MonoBehaviour:
 '
     lookUp:
       assets:
-      - {fileID: 11400000, guid: e723e1d1b7375d64498cc4baad47b928, type: 2}
-      - {fileID: 11400000, guid: 2252cd7c0f1f088408b1d0f8c46e6d7a, type: 2}
+      - {fileID: 11400000, guid: dccbe55e8ab96874fba416f33acf9a39, type: 2}
     encrypted: 0
     stringData: 
 --- !u!1001 &1049244064
@@ -25595,6 +25828,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Combatant Spawner Range
       objectReference: {fileID: 0}
+    - target: {fileID: 250930870504411568, guid: 963bbbc26b86f2e41a58c53fdba29552, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1509280839696641296, guid: 963bbbc26b86f2e41a58c53fdba29552, type: 3}
       propertyPath: m_RootOrder
       value: 16
@@ -26367,7 +26604,7 @@ MonoBehaviour:
       isGlobalSceneID="False" useAppearingChance="False" appearingChanceFailSetID="False"
       canEscape="False" setLooks="False" keepAtCenter="False" enablePlayerAdvantage="True"
       overridePlayerAdvantageChance="False" enableEnemyAdvantage="True" overrideEnemyAdvantageChance="False"
-      ownStartSchematic="True" ownEndSchematic="False" ownAutoJoin="False" noBattleSetID="False"
+      ownStartSchematic="True" ownEndSchematic="True" ownAutoJoin="False" noBattleSetID="False"
       allGroups="False" useFactionGroups="False" useChanceSelection="False" useCombatantPositionSpots="False"
       ownPlayerSpots="False" ownAllySpots="False" ownEnemySpots="False" />
 
@@ -26400,6 +26637,95 @@ MonoBehaviour:
       </settings>
 
       </startSchematicAsset>
+
+      <victorySchematicAsset>
+
+      <_string>
+
+      <type><![CDATA[GamingIsLove.Makinom.ReferenceAssetSource`1]]></type>
+
+      </_string>
+
+      <settings>
+
+      <_string>
+
+      <_type><![CDATA[GamingIsLove.Makinom.ReferenceAssetSource`1]]></_type>
+
+      </_string>
+
+      <_asset
+      asset="1" />
+
+      </settings>
+
+      </victorySchematicAsset>
+
+      <escapeSchematicAsset>
+
+      <_string>
+
+      <type><![CDATA[GamingIsLove.Makinom.ReferenceAssetSource`1]]></type>
+
+      </_string>
+
+      <settings>
+
+      <_string>
+
+      <_type><![CDATA[GamingIsLove.Makinom.ReferenceAssetSource`1]]></_type>
+
+      </_string>
+
+      <_asset
+      asset="2" />
+
+      </settings>
+
+      </escapeSchematicAsset>
+
+      <defeatSchematicAsset>
+
+      <_string>
+
+      <type><![CDATA[GamingIsLove.Makinom.ReferenceAssetSource`1]]></type>
+
+      </_string>
+
+      <settings>
+
+      <_string>
+
+      <_type><![CDATA[GamingIsLove.Makinom.ReferenceAssetSource`1]]></_type>
+
+      </_string>
+
+      <_asset
+      asset="3" />
+
+      </settings>
+
+      </defeatSchematicAsset>
+
+      <leaveArenaSchematicAsset>
+
+      <_string>
+
+      <type><![CDATA[GamingIsLove.Makinom.ReferenceAssetSource`1]]></type>
+
+      </_string>
+
+      <settings>
+
+      <_string>
+
+      <_type><![CDATA[GamingIsLove.Makinom.ReferenceAssetSource`1]]></_type>
+
+      </_string>
+
+      </settings>
+
+      </leaveArenaSchematicAsset>
 
       <variableChanges>
 
@@ -26441,7 +26767,7 @@ MonoBehaviour:
       </_string>
 
       <_asset
-      asset="1" />
+      asset="4" />
 
       </settings>
 
@@ -26492,7 +26818,7 @@ MonoBehaviour:
       </_string>
 
       <_asset
-      asset="2" />
+      asset="5" />
 
       </settings>
 
@@ -26567,6 +26893,9 @@ MonoBehaviour:
     lookUp:
       assets:
       - {fileID: 11400000, guid: 03370557003e4b1448468c624ddafaa3, type: 2}
+      - {fileID: 11400000, guid: c7a84bdc2a41e204bb0f26ebd74c1fe2, type: 2}
+      - {fileID: 11400000, guid: b2d33ed6a2a09d74f85b40b73b295230, type: 2}
+      - {fileID: 11400000, guid: df2a5fa32e416de4da6ca624efadc7ea, type: 2}
       - {fileID: 11400000, guid: 2384e56236ae84340967b802cbad6bd8, type: 2}
       - {fileID: 11400000, guid: b6017ea2e1eea3843b8b76fd557ff7f5, type: 2}
     encrypted: 0
@@ -33268,6 +33597,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: WitchTown
       objectReference: {fileID: 0}
+    - target: {fileID: 5098348295462450207, guid: 13c13869fa47d194a800e7036d6896d8, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5587604222824787621, guid: 13c13869fa47d194a800e7036d6896d8, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -37850,6 +38183,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1034428337}
+  - {fileID: 832568369}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1904566201
