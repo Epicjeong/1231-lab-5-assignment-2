@@ -129,19 +129,19 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1654201546880210935, guid: 1006db6c94b17364ca26f847f26024b5, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -237.19724
+      value: -269.856
       objectReference: {fileID: 0}
     - target: {fileID: 1654201546880210935, guid: 1006db6c94b17364ca26f847f26024b5, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -193.93924
+      value: -192.46
       objectReference: {fileID: 0}
     - target: {fileID: 1654201546880210935, guid: 1006db6c94b17364ca26f847f26024b5, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 17.002808
+      value: 55.79
       objectReference: {fileID: 0}
     - target: {fileID: 1654201546880210935, guid: 1006db6c94b17364ca26f847f26024b5, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.9749728
+      value: -0.108276516
       objectReference: {fileID: 0}
     - target: {fileID: 1654201546880210935, guid: 1006db6c94b17364ca26f847f26024b5, type: 3}
       propertyPath: m_LocalRotation.x
@@ -149,7 +149,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1654201546880210935, guid: 1006db6c94b17364ca26f847f26024b5, type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0.2223244
+      value: -0.99412084
       objectReference: {fileID: 0}
     - target: {fileID: 1654201546880210935, guid: 1006db6c94b17364ca26f847f26024b5, type: 3}
       propertyPath: m_LocalRotation.z
@@ -161,7 +161,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1654201546880210935, guid: 1006db6c94b17364ca26f847f26024b5, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: -25.691
+      value: -192.432
       objectReference: {fileID: 0}
     - target: {fileID: 1654201546880210935, guid: 1006db6c94b17364ca26f847f26024b5, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
@@ -13266,6 +13266,8 @@ GameObject:
   - component: {fileID: 832568369}
   - component: {fileID: 832568371}
   - component: {fileID: 832568370}
+  - component: {fileID: 832568372}
+  - component: {fileID: 832568373}
   m_Layer: 0
   m_Name: InvaderSummonArea
   m_TagString: Untagged
@@ -13414,8 +13416,8 @@ MonoBehaviour:
       <_float maxInteractionDistance="3" maxMouseDistance="3"
       />
 
-      <_bool isInteract="False" isKeyPress="False" isDrop="False" isMouseDown="False"
-      isMouseDrag="False" isMouseUp="False" isMouseUpAsButton="False" isMouseEnter="False"
+      <_bool isInteract="True" isKeyPress="False" isDrop="False" isMouseDown="False"
+      isMouseDrag="False" isMouseUp="False" isMouseUpAsButton="True" isMouseEnter="False"
       isMouseOver="False" isMouseExit="False" setInteractionDistance="False" setMouseDistance="False"
       keyPressInTrigger="False" keyPressWhileColliding="False" startByRoot="False"
       />
@@ -13538,6 +13540,187 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &832568372
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 832568368}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1651919406, guid: bfb06eec059d3a345ac43927a4389437, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  serialize_conditionSetting:
+    name: conditionSetting
+    byteData: 
+    xmlData: '<xmldata autoCheckType="0" conditionFail="0" needed="0" >
+
+      <_float
+      destroyCheckDelay="1" />
+
+      <_bool repeatCheck="False" />
+
+      <_subarrays>
+
+      <condition>
+
+      </condition>
+
+      </_subarrays>
+
+      </xmldata>
+
+'
+    lookUp:
+      assets: []
+    encrypted: 0
+    stringData: 
+  serialize_setting:
+    name: settings
+    byteData: 
+    xmlData: '<xmldata>
+
+      <_bool custom="False" />
+
+      <sceneObject>
+
+      <_string>
+
+      <type><![CDATA[GamingIsLove.Makinom.ReferenceAssetSource`1]]></type>
+
+      </_string>
+
+      <settings>
+
+      <_string>
+
+      <_type><![CDATA[GamingIsLove.Makinom.ReferenceAssetSource`1]]></_type>
+
+      </_string>
+
+      <_asset
+      asset="0" />
+
+      </settings>
+
+      </sceneObject>
+
+      <_subarrays>
+
+      <customTextCode>
+
+      </customTextCode>
+
+      </_subarrays>
+
+      </xmldata>
+
+'
+    lookUp:
+      assets:
+      - {fileID: 11400000, guid: dccbe55e8ab96874fba416f33acf9a39, type: 2}
+    encrypted: 0
+    stringData: 
+--- !u!114 &832568373
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 832568368}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1016094484, guid: bfb06eec059d3a345ac43927a4389437, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  serialize_setting:
+    name: settings
+    byteData: 
+    xmlData: '<xmldata>
+
+      <condition needed="0" >
+
+      <_subarrays>
+
+      <condition>
+
+      <0>
+
+      <_string>
+
+      <type><![CDATA[GamingIsLove.ORKFramework.QuestTaskGeneralCondition`1]]></type>
+
+      </_string>
+
+      <settings
+      needed="0" >
+
+      <_string>
+
+      <_type><![CDATA[GamingIsLove.ORKFramework.QuestTaskGeneralCondition`1]]></_type>
+
+      </_string>
+
+      <_subarrays>
+
+      <taskStatus>
+
+      <0
+      type="1" >
+
+      <_bool isValid="True" questActive="True" />
+
+      <task>
+
+      <_string>
+
+      <type><![CDATA[GamingIsLove.Makinom.ReferenceAssetSource`1]]></type>
+
+      </_string>
+
+      <settings>
+
+      <_string>
+
+      <_type><![CDATA[GamingIsLove.Makinom.ReferenceAssetSource`1]]></_type>
+
+      </_string>
+
+      <_asset
+      asset="0" />
+
+      </settings>
+
+      </task>
+
+      </0>
+
+      </taskStatus>
+
+      </_subarrays>
+
+      </settings>
+
+      </0>
+
+      </condition>
+
+      </_subarrays>
+
+      </condition>
+
+      </xmldata>
+
+'
+    lookUp:
+      assets:
+      - {fileID: 11400000, guid: 1ef4316230aad1946a5226d4b18d3b7c, type: 2}
+    encrypted: 0
+    stringData: 
+  notes: 
+  gameObjects: []
 --- !u!1001 &840127640
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -38005,7 +38188,7 @@ MonoBehaviour:
       </_string>
 
       <settings
-      needed="0" >
+      needed="1" >
 
       <_string>
 
@@ -38055,6 +38238,65 @@ MonoBehaviour:
 
       </0>
 
+      <1>
+
+      <_string>
+
+      <type><![CDATA[GamingIsLove.ORKFramework.QuestTaskGeneralCondition`1]]></type>
+
+      </_string>
+
+      <settings
+      needed="0" >
+
+      <_string>
+
+      <_type><![CDATA[GamingIsLove.ORKFramework.QuestTaskGeneralCondition`1]]></_type>
+
+      </_string>
+
+      <_subarrays>
+
+      <taskStatus>
+
+      <0
+      type="1" >
+
+      <_bool isValid="True" questActive="True" />
+
+      <task>
+
+      <_string>
+
+      <type><![CDATA[GamingIsLove.Makinom.ReferenceAssetSource`1]]></type>
+
+      </_string>
+
+      <settings>
+
+      <_string>
+
+      <_type><![CDATA[GamingIsLove.Makinom.ReferenceAssetSource`1]]></_type>
+
+      </_string>
+
+      <_asset
+      asset="1" />
+
+      </settings>
+
+      </task>
+
+      </0>
+
+      </taskStatus>
+
+      </_subarrays>
+
+      </settings>
+
+      </1>
+
       </condition>
 
       </_subarrays>
@@ -38067,10 +38309,13 @@ MonoBehaviour:
     lookUp:
       assets:
       - {fileID: 11400000, guid: 2252cd7c0f1f088408b1d0f8c46e6d7a, type: 2}
+      - {fileID: 11400000, guid: 1ef4316230aad1946a5226d4b18d3b7c, type: 2}
     encrypted: 0
     stringData: 
   notes: 
-  gameObjects: []
+  gameObjects:
+  - {fileID: 1034428336}
+  - {fileID: 832568368}
 --- !u!114 &1892022293
 MonoBehaviour:
   m_ObjectHideFlags: 0
