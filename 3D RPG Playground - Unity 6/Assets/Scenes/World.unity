@@ -18443,6 +18443,66 @@ MonoBehaviour:
 
       <condition>
 
+      <0
+      autoCheck="0" >
+
+      <_string>
+
+      <type><![CDATA[GamingIsLove.ORKFramework.QuestComponentCondition]]></type>
+
+      </_string>
+
+      <settings
+      needed="0" >
+
+      <_string>
+
+      <_type><![CDATA[GamingIsLove.ORKFramework.QuestComponentCondition]]></_type>
+
+      </_string>
+
+      <_subarrays>
+
+      <questStatus>
+
+      <0
+      type="2" >
+
+      <_bool isValid="True" />
+
+      <quest>
+
+      <_string>
+
+      <type><![CDATA[GamingIsLove.Makinom.ReferenceAssetSource`1]]></type>
+
+      </_string>
+
+      <settings>
+
+      <_string>
+
+      <_type><![CDATA[GamingIsLove.Makinom.ReferenceAssetSource`1]]></_type>
+
+      </_string>
+
+      <_asset
+      asset="0" />
+
+      </settings>
+
+      </quest>
+
+      </0>
+
+      </questStatus>
+
+      </_subarrays>
+
+      </settings>
+
+      </0>
+
       </condition>
 
       </_subarrays>
@@ -18451,7 +18511,8 @@ MonoBehaviour:
 
 '
     lookUp:
-      assets: []
+      assets:
+      - {fileID: 11400000, guid: 308aced0785c0994aab4f4f145dde7e2, type: 2}
     encrypted: 0
     stringData: 
   serialize_baseSettings:
@@ -19128,6 +19189,35 @@ MonoBehaviour:
       </settings>
 
       </1>
+
+      <2>
+
+      <_string>
+
+      <type><![CDATA[GamingIsLove.ORKFramework.QuestGeneralCondition`1]]></type>
+
+      </_string>
+
+      <settings
+      needed="0" >
+
+      <_string>
+
+      <_type><![CDATA[GamingIsLove.ORKFramework.QuestGeneralCondition`1]]></_type>
+
+      </_string>
+
+      <_subarrays>
+
+      <questStatus>
+
+      </questStatus>
+
+      </_subarrays>
+
+      </settings>
+
+      </2>
 
       </condition>
 
@@ -33807,7 +33897,7 @@ Transform:
   m_GameObject: {fileID: 1749195328}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 141.1, y: 7.500456, z: 442.6}
+  m_LocalPosition: {x: 80.4, y: 7.500456, z: 342.2}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -41893,7 +41983,7 @@ MonoBehaviour:
       <triggerStartSetting
       needed="1" layerMask="-1" >
 
-      <_bool isTriggerEnter="True" isTriggerStay="False"
+      <_bool isTriggerEnter="True" isTriggerStay="True"
       isTriggerExit="False" startByCollider="True" startByTrigger="True" startByRoot="False"
       startByOther="False" limitLayers="False" />
 
@@ -42139,8 +42229,8 @@ MonoBehaviour:
 
       <_bool useType="False" useSubTypes="False" learnAbilities="True"
       useStartInventory="True" useStartEquipment="True" useInitSchematic="True" blockConditionalPrefabs="False"
-      isPassive="False" passiveMustDefeat="False" setBattleGroupIndex="False" useLevelZone="True"
-      classUseLevelZone="True" />
+      isPassive="False" passiveMustDefeat="False" setBattleGroupIndex="False" useLevelZone="False"
+      classUseLevelZone="False" />
 
       <combatant>
 
@@ -42234,7 +42324,7 @@ MonoBehaviour:
     lookUp:
       assets:
       - {fileID: 11400000, guid: 7b0008fec30cf0849ae378a64f080a1d, type: 2}
-      - {fileID: 11400000, guid: c7a84bdc2a41e204bb0f26ebd74c1fe2, type: 2}
+      - {fileID: 11400000, guid: 131cfca68bdd5c34a8ecc81d06a720ce, type: 2}
       - {fileID: 11400000, guid: df2a5fa32e416de4da6ca624efadc7ea, type: 2}
       - {fileID: 11400000, guid: 2384e56236ae84340967b802cbad6bd8, type: 2}
       - {fileID: 11400000, guid: c22a16d28798c3a48811b0d3b9097410, type: 2}
